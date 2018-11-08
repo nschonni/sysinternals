@@ -41,7 +41,7 @@ own live kernel debugging facility.
 First download and install the Debugging Tools for Windows package from
 Microsoft's web site:
 
-[http://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx](http://msdn.microsoft.com/en-us/library/windows/hardware/ff551063(v=vs.85).aspx)
+[http://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx](http://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx)
 
 If you install the tools to their default directory of \\Program
 Files\\Microsoft\\Debugging Tools for Windows, you can run *LiveKD* from
