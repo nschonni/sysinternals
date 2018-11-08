@@ -3,7 +3,7 @@ TOCTitle: Coreinfo
 title: Coreinfo
 description: Coreinfo is a command-line utility that shows you the mapping between logical processors and the physical processor.
 ms:assetid: 'c5e117b5-d674-4409-914d-17bcac43f1fd'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Cc835722(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Cc835722(v=MSDN.10)'
 ms.date: 08/18/2014
 ---
 # Coreinfo v3.31

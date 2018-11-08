@@ -3,7 +3,7 @@ TOCTitle: PsPasswd
 title: PsPasswd
 description: Changes account passwords.
 ms:assetid: '0e454df6-b63b-404d-854c-e2f355630912'
-ms:mtpsurl: 'https://technet.microsoft.com/en-us/Bb897543(v=MSDN.10)'
+ms:mtpsurl: 'https://technet.microsoft.com/Bb897543(v=MSDN.10)'
 ms.date: 06/29/2016
 ---
 
